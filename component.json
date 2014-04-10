@@ -1,0 +1,16 @@
+{
+  "name": "sha256",
+  "repo": "slang800/sha256",
+  "description": "",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "slang800/bit-array": "*",
+    "slang800/codec-utf8string": "*"
+  },
+  "development": {},
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
