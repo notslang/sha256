@@ -3,6 +3,7 @@
   "repo": "slang800/sha256",
   "description": "",
   "version": "0.0.1",
+  "license": "BSD-2-Clause",
   "keywords": [],
   "dependencies": {
     "slang800/bit-array": "*",
